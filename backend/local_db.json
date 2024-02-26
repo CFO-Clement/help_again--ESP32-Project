@@ -1,0 +1,17 @@
+{
+    "id": {
+      "S": "1"
+    },
+    "long_message": {
+      "S": "J'ai besoin d'aide pour monter mes course"
+    },
+    "name": {
+      "S": "Josette"
+    },
+    "short_message": {
+      "S": "J'ai besoin d'aide pour decendre mes poubelle"
+    },
+    "status_help": {
+      "S": "accepted"
+    }
+  }
